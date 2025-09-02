@@ -141,6 +141,11 @@ To enable automatic deployment to Azure, set up the following secrets in your Gi
 
 MIT License
 
-## Next
+The immediate next steps for this project are:
 
-Test
+- Implement user authentication and multi-user support.
+- Add export functionality for expenses (CSV/Excel).
+- Begin work on monthly and yearly expense reports.
+- Gather user feedback to prioritize additional features.
+
+Stay tuned for updates and feel free to contribute or suggest improvements!
